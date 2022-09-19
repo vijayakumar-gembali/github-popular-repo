@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.button {
+  color: #0284c7;
+  font-family: 'roboto';
+  font-size: 20px;
+  border: 1px solid #0284c7;
+  background-color: transparent;
+  border-radius: 5px;
+  height: 20px;
+  width: 50px;
+  font-weight: bold;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+}

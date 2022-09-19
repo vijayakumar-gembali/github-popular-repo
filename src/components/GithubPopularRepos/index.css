@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+}
+.main-heading {
+  font-family: 'Lobster';
+  font-size: 25px;
+  font-weight: bold;
+}
+.failure-img {
+  height: 200px;
+  width: 200px;
+}
+.products-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.products-list {
+  list-style-type: none;
+}
